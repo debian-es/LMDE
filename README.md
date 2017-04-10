@@ -1,1 +1,1 @@
-# LMDE
+## LMDE (Linux Mint Debian Edition)
